@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="Calibri">
+        <normal><![CDATA[fonts/calibri/calibri.ttf]]></normal>
+        <bold><![CDATA[fonts/calibri/calibrib.ttf]]></bold>
+        <italic><![CDATA[fonts/calibri/calibrii.ttf]]></italic>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+    </fontFamily>
+    <fontFamily name="TheSansArabic">
+        <normal><![CDATA[fonts/theSansArabic/TheSansArabic-Light.otf]]></normal>
+        <bold><![CDATA[fonts/theSansArabic/THESANSARABIC-BOLD.ttf]]></bold>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+    </fontFamily>
+    <fontFamily name="Biennale">
+        <normal><![CDATA[fonts/biennale/Biennale.ttf]]></normal>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+    </fontFamily>
+</fontFamilies>
